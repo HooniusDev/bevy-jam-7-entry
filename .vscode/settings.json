@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.cargo.targetDir": true,
+
+    "workbench.editor.customLabels.patterns": {
+        "**/mod.rs": "${dirname}/mod.rs"
+    }
+}
